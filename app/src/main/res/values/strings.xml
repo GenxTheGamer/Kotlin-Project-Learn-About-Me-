@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="sameer_saini">Vaibhav Vyas</string>
+    <string name="clickme">Done</string>
+    <string name="about">I\'m Vaibhav Vyas from India.
+        \n\nCurrently in college and pursuing Computer science.
+        \n\nI have experience in coding since my high school and always wanted to go in computer field.
+    </string>
+    <string name="nick_name">Give me a nickname!! :)</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="proceed">Proceed</string>
+    <string name="welcome_to_my_bio">Welcome to my Bio</string>
+</resources>
